@@ -1,0 +1,25 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secabhi/flexbox.git"
+  },
+  "author": "Abhishek sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secabhi/flexbox/issues"
+  },
+  "homepage": "https://github.com/secabhi/flexbox#readme"
+}
